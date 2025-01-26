@@ -11,8 +11,8 @@
     "test": "npx vitest"
   },
   "dependencies": {
-    "react": "0.0.0-experimental-034130c02-20240303",
-    "react-dom": "0.0.0-experimental-034130c02-20240303"
+    "react": "0.0.0-experimental-d46b04a2-20250117",
+    "react-dom": "0.0.0-experimental-d46b04a2-20250117"
   },
   "devDependencies": {
     "@testing-library/react": "^14.2.1",

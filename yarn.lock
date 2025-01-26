@@ -2892,12 +2892,12 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-dom@0.0.0-experimental-034130c02-20240303:
-  version "0.0.0-experimental-034130c02-20240303"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-0.0.0-experimental-034130c02-20240303.tgz#141e3de9e915b50222aedcd1654d6ef8455ba9f0"
-  integrity sha512-RTFKNc+T+nmdsRvrt99PTgJGYYBdbBadkCMlLV5JIM1W/e5UNoEsLgSnVfVyGW1L7ex+JyDu7izC2DTGiMy7/Q==
+react-dom@0.0.0-experimental-d46b04a2-20250117:
+  version "0.0.0-experimental-d46b04a2-20250117"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-0.0.0-experimental-d46b04a2-20250117.tgz#5ad3dd9e4aa9e1478a381e92013e7f15d975173d"
+  integrity sha512-/jZEnzFthr/oono3ZjAH4OwTN4lNPV9oZcxyNu6DJthbcGs/sQnsbBZZ2jQgcLZM9kmK10Cl6pFLOBd5wdgFBA==
   dependencies:
-    scheduler "0.0.0-experimental-034130c02-20240303"
+    scheduler "0.0.0-experimental-d46b04a2-20250117"
 
 react-is@^16.13.1:
   version "16.13.1"
@@ -2919,10 +2919,10 @@ react-refresh@^0.14.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
   integrity sha512-wViHqhAd8OHeLS/IRMJjTSDHF3U9eWi62F/MledQGPdJGDhodXJ9PBLNGr6WWL7qlH12Mt3TyTpbS+hGXMjCzQ==
 
-react@0.0.0-experimental-034130c02-20240303:
-  version "0.0.0-experimental-034130c02-20240303"
-  resolved "https://registry.yarnpkg.com/react/-/react-0.0.0-experimental-034130c02-20240303.tgz#d0a80ee8a275a30304475d5e4ba9a67825310cf4"
-  integrity sha512-wFTdXx0HdEQh8kLOn6uLXFwzPze/vOywzRgCfx/Sfe4bveU3YU6pejymRcGZo/YK2CtaaEps1s8c/B/Tvz5dog==
+react@0.0.0-experimental-d46b04a2-20250117:
+  version "0.0.0-experimental-d46b04a2-20250117"
+  resolved "https://registry.yarnpkg.com/react/-/react-0.0.0-experimental-d46b04a2-20250117.tgz#40dc792e608474c16be406bf3851c2dc90944909"
+  integrity sha512-TMTc3uKY1Bd1L9Ieodk/xWx7VccoMe89LsjzsmzIKgzaRKj799TcEbw1QA8VfskKoHJ4SDKtNUdtK2uxLkQHqg==
 
 reflect.getprototypeof@^1.0.4:
   version "1.0.5"
@@ -3057,10 +3057,10 @@ saxes@^6.0.0:
   dependencies:
     xmlchars "^2.2.0"
 
-scheduler@0.0.0-experimental-034130c02-20240303:
-  version "0.0.0-experimental-034130c02-20240303"
-  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.0.0-experimental-034130c02-20240303.tgz#46605e3c152a03e76722c1cc19f32a6475a50fb0"
-  integrity sha512-RXoo7GqAdA724+c7OChYuaK9yYyKRUZum9Bl22QYyK3lr1hHlDtXvtsVZoQLs/KNp1ph1094xH22Je5WOp56cw==
+scheduler@0.0.0-experimental-d46b04a2-20250117:
+  version "0.0.0-experimental-d46b04a2-20250117"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.0.0-experimental-d46b04a2-20250117.tgz#b3310839d826133c9c68a360e9c371839225b16e"
+  integrity sha512-6A66qdeRL5hkuUurKK5ifI9eg3idF26NSaftusQ+EKI88zQX38T4kcB8Y/twov8J8RlE39tHAzAFOPDKTmGFgA==
 
 semver@^6.3.1:
   version "6.3.1"
