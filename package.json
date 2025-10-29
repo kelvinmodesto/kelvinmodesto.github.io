@@ -11,8 +11,10 @@
     "test": "npx vitest"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
     "react": "0.0.0-experimental-4f931700-20251029",
-    "react-dom": "0.0.0-experimental-4f931700-20251029"
+    "react-dom": "0.0.0-experimental-4f931700-20251029",
+    "tailwindcss": "^4.1.16"
   },
   "devDependencies": {
     "@testing-library/react": "^16.3.0",
